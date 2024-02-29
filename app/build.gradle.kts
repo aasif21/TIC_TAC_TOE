@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.tic_tac_toe"
-        minSdk = 21
+        minSdk = 25
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
